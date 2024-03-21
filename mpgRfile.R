@@ -1,4 +1,4 @@
-# J Dickens
+# J Dickens  James Dickens
 
 library(tidyverse)
 head(mpg)
